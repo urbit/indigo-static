@@ -20,7 +20,8 @@ const themeAdapter = async () => {
   return {
     lineHeight,
     customMedia: [{ m: 550 / 16 }, { l: 750 / 16 }, { xl: 960 / 16 }],
-    colors
+    colors,
+    typeScale: [4.5, 4, 3, 2, 1.5, 1.125, 1, 0.875, 0.75]
   };
 };
 

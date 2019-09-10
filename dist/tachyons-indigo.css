@@ -935,19 +935,23 @@ img { max-width: 100%; }
     5 = 5th step in size scale
     6 = 6th step in size scale
     7 = 7th step in size scale
+    8 = 8th step in size scale
+    9 = 9th step in size scale
 
   Media Query Extensions:
     -m  = 34.375em
     -l  = 46.875em
     -xl  = 60em
 */
-.f1 { font-size: 3rem; }
-.f2 { font-size: 2.25rem; }
-.f3 { font-size: 1.5rem; }
-.f4 { font-size: 1.25rem; }
-.f5 { font-size: 1rem; }
-.f6 { font-size: .875rem; }
-.f7 { font-size: .75rem; }
+.f1 { font-size: 4.5rem; }
+.f2 { font-size: 4rem; }
+.f3 { font-size: 3rem; }
+.f4 { font-size: 2rem; }
+.f5 { font-size: 1.5rem; }
+.f6 { font-size: 1.125rem; }
+.f7 { font-size: 1rem; }
+.f8 { font-size: .875rem; }
+.f9 { font-size: .75rem; }
 /*
 
   TYPOGRAPHY
@@ -1464,13 +1468,15 @@ img { max-width: 100%; }
  .ttl-m { text-transform: lowercase; }
  .ttu-m { text-transform: uppercase; }
  .ttn-m { text-transform: none; }
- .f1-m { font-size: 3rem; }
- .f2-m { font-size: 2.25rem; }
- .f3-m { font-size: 1.5rem; }
- .f4-m { font-size: 1.25rem; }
- .f5-m { font-size: 1rem; }
- .f6-m { font-size: .875rem; }
- .f7-m { font-size: .75rem; }
+ .f1-m { font-size: 4.5rem; }
+ .f2-m { font-size: 4rem; }
+ .f3-m { font-size: 3rem; }
+ .f4-m { font-size: 2rem; }
+ .f5-m { font-size: 1.5rem; }
+ .f6-m { font-size: 1.125rem; }
+ .f7-m { font-size: 1rem; }
+ .f8-m { font-size: .875rem; }
+ .f9-m { font-size: .75rem; }
  .measure-m { max-width: 30em; }
  .measure-wide-m { max-width: 34em; }
  .measure-narrow-m { max-width: 20em; }
@@ -1915,13 +1921,15 @@ img { max-width: 100%; }
  .ttl-l { text-transform: lowercase; }
  .ttu-l { text-transform: uppercase; }
  .ttn-l { text-transform: none; }
- .f1-l { font-size: 3rem; }
- .f2-l { font-size: 2.25rem; }
- .f3-l { font-size: 1.5rem; }
- .f4-l { font-size: 1.25rem; }
- .f5-l { font-size: 1rem; }
- .f6-l { font-size: .875rem; }
- .f7-l { font-size: .75rem; }
+ .f1-l { font-size: 4.5rem; }
+ .f2-l { font-size: 4rem; }
+ .f3-l { font-size: 3rem; }
+ .f4-l { font-size: 2rem; }
+ .f5-l { font-size: 1.5rem; }
+ .f6-l { font-size: 1.125rem; }
+ .f7-l { font-size: 1rem; }
+ .f8-l { font-size: .875rem; }
+ .f9-l { font-size: .75rem; }
  .measure-l { max-width: 30em; }
  .measure-wide-l { max-width: 34em; }
  .measure-narrow-l { max-width: 20em; }
@@ -2366,13 +2374,15 @@ img { max-width: 100%; }
  .ttl-xl { text-transform: lowercase; }
  .ttu-xl { text-transform: uppercase; }
  .ttn-xl { text-transform: none; }
- .f1-xl { font-size: 3rem; }
- .f2-xl { font-size: 2.25rem; }
- .f3-xl { font-size: 1.5rem; }
- .f4-xl { font-size: 1.25rem; }
- .f5-xl { font-size: 1rem; }
- .f6-xl { font-size: .875rem; }
- .f7-xl { font-size: .75rem; }
+ .f1-xl { font-size: 4.5rem; }
+ .f2-xl { font-size: 4rem; }
+ .f3-xl { font-size: 3rem; }
+ .f4-xl { font-size: 2rem; }
+ .f5-xl { font-size: 1.5rem; }
+ .f6-xl { font-size: 1.125rem; }
+ .f7-xl { font-size: 1rem; }
+ .f8-xl { font-size: .875rem; }
+ .f9-xl { font-size: .75rem; }
  .measure-xl { max-width: 30em; }
  .measure-wide-xl { max-width: 34em; }
  .measure-narrow-xl { max-width: 20em; }
