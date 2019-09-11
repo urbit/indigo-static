@@ -1,14 +1,18 @@
 # indigo-static
+Indigo-static is mainly used to build static sites. We use tachyons-generator to parse `indigo-tokens` and then generate CSS.
 
+**getting started***
 
-## Usage
+**NPM**
+
 ```
-#if you don't have yarn:
-brew install yarn
+npm install indigo-static
 
-#setup
-yarn install
+```
 
-#run to generate CSS
+
+***run to generate CSS***
+
+```
 node ./scripts/generate.js
 ```
